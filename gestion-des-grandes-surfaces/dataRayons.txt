@@ -1,0 +1,4 @@
+1 Boissons 5000 Satisfaisant
+2 Boulangerie 4000 insatisfaisant
+3 Biscuits 2 insatisfaisant
+4 Plastic 12 insatisfaisant

@@ -1,0 +1,8 @@
+1 Lait Boissons 5000 5.000000 10
+2 Eau Boissons 4000 4.000000 10
+3 Pain Boulangerie 600 1.000000 10
+4 Croissant Boulangerie 600 1.000000 10
+5 Tonic Biscuits 6 1.000000 10
+6 CEentral laitiers 12 7.000000 10
+7 yoaourt laitiers 122 4.000000 10
+8 ww a 1 5.000000 10
